@@ -1,0 +1,112 @@
+Model,Default Username,Default Password,Default IP address
+3G150S,-,admin,192.168.2.1
+3G150S default factory settings,,,
+4G300,admin,admin,192.168.2.1
+4G300 default factory settings,,,
+4G301,admin,admin,192.168.2.1
+4G301 default factory settings,,,
+4G600,admin,admin,192.168.0.1
+4G600 default factory settings,,,
+A30,-,admin,192.168.0.254
+A30 default factory settings,,,
+A31,-,admin,192.168.2.1
+A31 default factory settings,,,
+A5,-,admin,192.168.2.1
+A5 default factory settings,,,
+A6,-,admin,192.168.2.1
+A6 default factory settings,,,
+A8,-,admin,192.168.2.1
+A8 default factory settings,,,
+AP5,admin,admin,192.168.0.254
+AP5 default factory settings,,,
+,,,
+AP5 v2,admin,admin,192.168.0.254
+AP5 v2 default factory settings,,,
+B6,admin,admin,192.168.2.1
+B6 default factory settings,,,
+D151,admin,admin,192.168.1.1
+D151 default factory settings,,,
+D151 v2,admin,admin,192.168.1.1
+D151 v2 default factory settings,,,
+D151 v3,admin,admin,192.168.1.1
+D151 v3 default factory settings,,,
+D301,admin,admin,192.168.1.1
+D301 default factory settings,,,
+D302,admin,admin,192.168.1.1
+D302 default factory settings,,,
+F1200,-,admin,192.168.0.1
+F1200 default factory settings,,,
+F3,-,admin,192.168.0.1
+F3 default factory settings,,,
+F3-16,-,admin,192.168.0.1
+F3-16 default factory settings,,,
+,,,
+F300,-,admin,192.168.0.1
+F300 default factory settings,,,
+F303,-,admin,192.168.0.1
+F303 default factory settings,,,
+F452,-,admin,192.168.0.1
+F452 default factory settings,,,
+F9-17,-,admin,192.168.0.1
+F9-17 default factory settings,,,
+FH1201,-,admin,192.168.0.1
+FH1201 default factory settings,,,
+FH1202,-,admin,192.168.0.1
+FH1202 default factory settings,,,
+FH1206,-,admin,-
+FH1206 default factory settings,,,
+FH303 v2,-,admin,192.168.0.1
+FH303 v2 default factory settings,,,
+HG305-G,admin,admin,192.168.1.1
+HG305-G default factory settings,,,
+N150,-,admin,192.168.0.1
+N150 default factory settings,,,
+,,,
+N301,admin,admin,192.168.0.1
+N301 default factory settings,,,
+N6,admin,admin,192.168.0.1
+N6 default factory settings,,,
+N60,admin,admin,192.168.0.1
+N60 default factory settings,,,
+N80,admin,admin,192.168.0.1
+N80 default factory settings,,,
+PA7,-,admin,-
+PA7 default factory settings,,,
+W1500A,admin,admin,192.168.2.1
+W1500A default factory settings,,,
+W150D v6 (??),admin,admin,192.168.1.1
+W150D v6 (??) default factory settings,,,
+W150M,admin,admin,-
+W150M default factory settings,,,
+W150M+,admin,admin,-
+W150M+ default factory settings,,,
+W1800R,admin,admin,192.168.0.1
+W1800R default factory settings,,,
+,,,
+W268R (earlier),admin,admin,192.168.0.1
+W268R (earlier) default factory settings,,,
+W268R (later),admin,admin,192.168.0.1
+W268R (later) default factory settings,,,
+W300A,admin,admin,192.168.0.254
+W300A default factory settings,,,
+W302R,admin,admin,192.168.0.1
+W302R default factory settings,,,
+W303R v3 (??),-,admin,192.168.0.1
+W303R v3 (??) default factory settings,,,
+W307R v1 (??),admin,admin,192.168.0.1
+W307R v1 (??) default factory settings,,,
+W307R v3,admin,admin,192.168.0.1
+W307R v3 default factory settings,,,
+W311R v2,admin,admin,192.168.0.1
+W311R v2 default factory settings,,,
+W311R v3,admin,admin,192.168.0.1
+W311R v3 default factory settings,,,
+W330R,admin,admin,192.168.0.1
+W330R default factory settings,,,
+,,,
+W568R,admin,admin,192.168.0.1
+W568R default factory settings,,,
+i21,admin,admin,192.168.0.254
+i21 default factory settings,,,
+i24,admin,admin,192.168.0.254
+i24 default factory settings,,,
